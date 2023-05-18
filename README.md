@@ -1,4 +1,3 @@
-- Hello! I'm Maxwell Jones, an aspiring data sceintist.
-- I have a Bachelor's in Statistics from the University of Virginia, and I'm currently studying data science also at UVA.
-- I'm open to any data scientist opportunity, but I would especially love to work with sports or economics data.
-- The best way to reach me is through my email, maj3js@virginia.edu.
+- Hello! I'm Maxwell Jones, a data sceintist.
+- I have a Bachelor's in Statistics and a Master's in Data Science, both from the University of Virginia.
+- The best way to reach me is through my email, maxwelljones707@gmail.com.
