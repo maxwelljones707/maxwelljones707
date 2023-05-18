@@ -1,3 +1,3 @@
-- Hello! I'm Maxwell Jones, a data sceintist.
+- Hello! I'm Maxwell Jones, a data scientist.
 - I have a Bachelor's in Statistics and a Master's in Data Science, both from the University of Virginia.
 - The best way to reach me is through my email, maxwelljones707@gmail.com.
